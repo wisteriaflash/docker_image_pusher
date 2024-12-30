@@ -1,1 +1,3 @@
-anchorxia/musev:latest
+okapi0129/virtualwife-chatbot:latest
+okapi0129/virtualwife-chatvrm:latest
+okapi0129/virtualwife-gateway:latest
